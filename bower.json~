@@ -1,0 +1,9 @@
+{
+  "name": "contatooh",
+  "main": "index.js",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.3"
+  }
+}

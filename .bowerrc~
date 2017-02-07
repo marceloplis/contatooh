@@ -1,0 +1,4 @@
+/contatooh/.bowerrc
+{
+	"directory": "public/vendor"
+}

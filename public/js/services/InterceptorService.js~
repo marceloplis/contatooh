@@ -1,0 +1,10 @@
+angular.module('contatooh')
+	.factory('meuInterceptor',
+		function($location, $q) {
+			var interceptor = {
+
+			}
+
+	return interceptor;
+});
+
