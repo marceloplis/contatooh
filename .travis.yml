@@ -23,5 +23,5 @@ before_script:
   - cd dist
 script:
  - karma start config/karma.config.js --single-run --browsers PhantomJS
- - node server &
+ - node index &
  - protractor config/protractor.js
